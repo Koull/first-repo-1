@@ -7,7 +7,7 @@ void setup() {
 }
 void draw() {
 
-background(255, 200, 0);  
+background(255, 150, 150);  
 plant(15, 0.4, 0.8);
 }
 void leaf() {
